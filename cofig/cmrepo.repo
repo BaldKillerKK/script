@@ -1,0 +1,6 @@
+[cmrepo]
+name=cmrepo
+baseurl=http://192.168.160.198/local-yum/
+enabled=1
+gpgcheck=0
+

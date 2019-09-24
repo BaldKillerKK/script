@@ -1,0 +1,7 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.160.131 hbmaster1 hbmaster1.wisdom.com
+192.168.160.192 hbnode1 hbnode1.wisdom.com
+192.168.160.197 hbnode2 hbnode2.wisdom.com
+192.168.160.174 hbnode3 hbnode3.wisdom.com
